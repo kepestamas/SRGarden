@@ -1,4 +1,4 @@
-# T-Garden-SRGs
+# SRGarden
 
 ## Introduction, sources and licences
 
@@ -107,4 +107,4 @@ Bucket `x+` contains events with an area of at least x km² and less than the ne
 
 ---
 
-### The T-Garden team
+### The SRGarden team
